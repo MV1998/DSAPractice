@@ -97,7 +97,7 @@ Node *InsertAtPosition(Node *head, int data, int pos) {
     return head;
 }
 
-int main() 
+int main()
 { 
     Node *head = NULL;
 
